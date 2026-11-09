@@ -1,0 +1,11 @@
+7men.puwa.online {
+	root * /var/www/7men
+	encode zstd gzip
+	try_files {path} /index.html
+	file_server
+
+	header {
+		X-Content-Type-Options nosniff
+		Referrer-Policy strict-origin-when-cross-origin
+	}
+}
