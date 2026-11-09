@@ -4,6 +4,11 @@
 	try_files {path} /index.html
 	file_server
 
+	@assets path /assets/* /fonts/*
+	header @assets Cache-Control "public, max-age=31536000, immutable"
+	@index path / /index.html
+	header @index Cache-Control "no-cache"
+
 	header {
 		X-Content-Type-Options nosniff
 		Referrer-Policy strict-origin-when-cross-origin
