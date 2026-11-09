@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "name": "请根据附件需求开发奇门打工人 MVP H5/PWA。附件路径：C:\\Users\\heyia\\Downloads\\qimen-mvp-spec.md、C:\\Users\\heyia\\Downloads\\copy-zh.json、C:\\Users\\heyia\\Downloads\\rules.json。请读取并严格按说明实现：Vite + 原生",
+  "request": "请根据附件需求开发奇门打工人 MVP H5/PWA。附件路径：C:\\Users\\heyia\\Downloads\\qimen-mvp-spec.md、C:\\Users\\heyia\\Downloads\\copy-zh.json、C:\\Users\\heyia\\Downloads\\rules.json。请读取并严格按说明实现：Vite + 原生 TS 或 React 均可，优先轻量；古色古香但文案年轻的三 Tab（此刻/问事/我），罗盘主视觉、九宫原盘折叠、问事三类、localStorage 一事不二占和历史、高风险拦截、分享卡至少用 canvas 或可分享的视觉卡片。排盘引擎按规则文件实现可用的简化时家奇门转盘拆补法，并把规则与文案放入 src/data。需要可运行、响应式、中文界面，完成后运行构建验证。",
+  "target": {
+    "kind": "none"
+  },
+  "stack": "",
+  "status": "new",
+  "note": "",
+  "created_ms": 1794192121983,
+  "updated_ms": 1794192121983,
+  "checks": [],
+  "agent_session": null,
+  "allowed_actions": [],
+  "last_reply": "",
+  "asset_budget_usd": 5.0,
+  "generate_assets": false
+}
