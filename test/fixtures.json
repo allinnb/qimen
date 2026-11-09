@@ -1,0 +1,2886 @@
+[
+ {
+  "source": "published",
+  "ref": "zyqmdj.com/81.html 拆补法排盘举例",
+  "input": [
+   2020,
+   6,
+   8,
+   10,
+   25
+  ],
+  "expect": {
+   "time": "2020-06-08 10:25",
+   "solarTerm": "芒种",
+   "yinYang": "阳",
+   "yuan": "上",
+   "ju": 6,
+   "dayGZ": "壬午",
+   "hourGZ": "乙巳",
+   "xunShou": "甲辰壬",
+   "zhiFu": "天蓬",
+   "zhiShi": "休门",
+   "kong": [
+    "寅",
+    "卯"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "壬",
+     "heavenStem": "丙",
+     "star": "天辅",
+     "door": "杜门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "庚",
+     "heavenStem": "辛",
+     "star": "天英",
+     "door": "景门",
+     "god": "白虎",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "丁",
+     "heavenStem": "癸",
+     "star": "天芮",
+     "door": "死门",
+     "god": "玄武",
+     "flags": {
+      "kong": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "乙"
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "丙",
+     "heavenStem": "己",
+     "star": "天柱",
+     "door": "惊门",
+     "god": "九地",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "辛",
+     "heavenStem": "戊",
+     "star": "天心",
+     "door": "开门",
+     "god": "九天",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "癸",
+     "heavenStem": "壬",
+     "star": "天蓬",
+     "door": "休门",
+     "god": "值符",
+     "flags": {},
+     "earthStemJi": "乙"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "己",
+     "heavenStem": "庚",
+     "star": "天任",
+     "door": "生门",
+     "god": "螣蛇",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "戊",
+     "heavenStem": "丁",
+     "star": "天冲",
+     "door": "伤门",
+     "god": "太阴",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "published",
+  "ref": "元亨利贞网 bbs.china95.net/thread-3279439 拆补无闰法",
+  "input": [
+   2020,
+   5,
+   3,
+   5,
+   50
+  ],
+  "expect": {
+   "time": "2020-05-03 05:50",
+   "solarTerm": "谷雨",
+   "yinYang": "阳",
+   "yuan": "下",
+   "ju": 8,
+   "dayGZ": "丙午",
+   "hourGZ": "辛卯",
+   "xunShou": "甲申庚",
+   "zhiFu": "天蓬",
+   "zhiShi": "休门",
+   "kong": [
+    "午",
+    "未"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "庚",
+     "heavenStem": "癸",
+     "star": "天辅",
+     "door": "开门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "戊",
+     "heavenStem": "己",
+     "star": "天英",
+     "door": "休门",
+     "god": "白虎",
+     "flags": {}
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "壬",
+     "heavenStem": "辛",
+     "star": "天芮",
+     "door": "生门",
+     "god": "玄武",
+     "flags": {},
+     "extraStar": "天禽",
+     "heavenStemJi": "丁"
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "癸",
+     "heavenStem": "乙",
+     "star": "天柱",
+     "door": "伤门",
+     "god": "九地",
+     "flags": {}
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "己",
+     "heavenStem": "丙",
+     "star": "天心",
+     "door": "杜门",
+     "god": "九天",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "辛",
+     "heavenStem": "庚",
+     "star": "天蓬",
+     "door": "景门",
+     "god": "值符",
+     "flags": {
+      "kong": true
+     },
+     "earthStemJi": "丁"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "乙",
+     "heavenStem": "戊",
+     "star": "天任",
+     "door": "死门",
+     "god": "螣蛇",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "丙",
+     "heavenStem": "壬",
+     "star": "天冲",
+     "door": "惊门",
+     "god": "太阴",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "published",
+  "ref": "刘文元奇门教材 dushu.com/guoxue/105255/1142129.html",
+  "input": [
+   2000,
+   2,
+   13,
+   8,
+   40
+  ],
+  "expect": {
+   "time": "2000-02-13 08:40",
+   "solarTerm": "立春",
+   "yinYang": "阳",
+   "yuan": "中",
+   "ju": 5,
+   "dayGZ": "辛丑",
+   "hourGZ": "壬辰",
+   "xunShou": "甲申庚",
+   "zhiFu": "天柱",
+   "zhiShi": "惊门",
+   "kong": [
+    "午",
+    "未"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "癸",
+     "heavenStem": "丙",
+     "star": "天冲",
+     "door": "开门",
+     "god": "白虎",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "辛",
+     "heavenStem": "乙",
+     "star": "天辅",
+     "door": "休门",
+     "god": "玄武",
+     "flags": {}
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "丙",
+     "heavenStem": "壬",
+     "star": "天英",
+     "door": "生门",
+     "god": "九地",
+     "flags": {}
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "乙",
+     "heavenStem": "丁",
+     "star": "天芮",
+     "door": "伤门",
+     "god": "九天",
+     "flags": {},
+     "extraStar": "天禽",
+     "heavenStemJi": "戊"
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "壬",
+     "heavenStem": "庚",
+     "star": "天柱",
+     "door": "杜门",
+     "god": "值符",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "丁",
+     "heavenStem": "己",
+     "star": "天心",
+     "door": "景门",
+     "god": "螣蛇",
+     "flags": {
+      "kong": true,
+      "jixing": true
+     },
+     "earthStemJi": "戊"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "庚",
+     "heavenStem": "癸",
+     "star": "天蓬",
+     "door": "死门",
+     "god": "太阴",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "己",
+     "heavenStem": "辛",
+     "star": "天任",
+     "door": "惊门",
+     "god": "六合",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "published",
+  "ref": "百度百科「数字奇门遁甲」示例一",
+  "input": [
+   2026,
+   3,
+   11,
+   21,
+   27
+  ],
+  "expect": {
+   "time": "2026-03-11 21:27",
+   "solarTerm": "惊蛰",
+   "yinYang": "阳",
+   "yuan": "中",
+   "ju": 7,
+   "dayGZ": "甲申",
+   "hourGZ": "乙亥",
+   "xunShou": "甲戌己",
+   "zhiFu": "天任",
+   "zhiShi": "生门",
+   "kong": [
+    "申",
+    "酉"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "辛",
+     "heavenStem": "癸",
+     "star": "天冲",
+     "door": "死门",
+     "god": "螣蛇",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "己",
+     "heavenStem": "丁",
+     "star": "天辅",
+     "door": "惊门",
+     "god": "太阴",
+     "flags": {
+      "rumu": true
+     }
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "癸",
+     "heavenStem": "庚",
+     "star": "天英",
+     "door": "开门",
+     "god": "六合",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "丁",
+     "heavenStem": "壬",
+     "star": "天芮",
+     "door": "休门",
+     "god": "白虎",
+     "flags": {
+      "jixing": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "丙"
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "庚",
+     "heavenStem": "戊",
+     "star": "天柱",
+     "door": "生门",
+     "god": "玄武",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "壬",
+     "heavenStem": "乙",
+     "star": "天心",
+     "door": "伤门",
+     "god": "九地",
+     "flags": {
+      "kong": true,
+      "rumu": true,
+      "menpo": true
+     },
+     "earthStemJi": "丙"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "戊",
+     "heavenStem": "辛",
+     "star": "天蓬",
+     "door": "杜门",
+     "god": "九天",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "乙",
+     "heavenStem": "己",
+     "star": "天任",
+     "door": "景门",
+     "god": "值符",
+     "flags": {
+      "menpo": true
+     }
+    }
+   ]
+  }
+ },
+ {
+  "source": "published",
+  "ref": "lingtai.cc 定局实例（真太阳时校正后 08:02）",
+  "input": [
+   2026,
+   1,
+   1,
+   8,
+   2
+  ],
+  "expect": {
+   "time": "2026-01-01 08:02",
+   "solarTerm": "冬至",
+   "yinYang": "阳",
+   "yuan": "下",
+   "ju": 4,
+   "dayGZ": "乙亥",
+   "hourGZ": "庚辰",
+   "xunShou": "甲戌己",
+   "zhiFu": "天禽",
+   "zhiShi": "死门",
+   "kong": [
+    "申",
+    "酉"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "丁",
+     "heavenStem": "辛",
+     "star": "天柱",
+     "door": "休门",
+     "god": "螣蛇",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "壬",
+     "heavenStem": "庚",
+     "star": "天心",
+     "door": "生门",
+     "god": "太阴",
+     "flags": {
+      "jixing": true
+     }
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "乙",
+     "heavenStem": "丁",
+     "star": "天蓬",
+     "door": "伤门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "戊",
+     "heavenStem": "壬",
+     "star": "天任",
+     "door": "杜门",
+     "god": "白虎",
+     "flags": {
+      "jixing": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "癸",
+     "heavenStem": "乙",
+     "star": "天冲",
+     "door": "景门",
+     "god": "玄武",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "丙",
+     "heavenStem": "戊",
+     "star": "天辅",
+     "door": "死门",
+     "god": "九地",
+     "flags": {
+      "kong": true
+     },
+     "earthStemJi": "己"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "辛",
+     "heavenStem": "癸",
+     "star": "天英",
+     "door": "惊门",
+     "god": "九天",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "庚",
+     "heavenStem": "丙",
+     "star": "天芮",
+     "door": "开门",
+     "god": "值符",
+     "flags": {
+      "rumu": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "己"
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "阴遁、旬首在中5（值符天禽、值使死门寄坤）",
+  "input": [
+   2026,
+   11,
+   9,
+   11,
+   20
+  ],
+  "expect": {
+   "time": "2026-11-09 11:20",
+   "solarTerm": "立冬",
+   "yinYang": "阴",
+   "yuan": "中",
+   "ju": 9,
+   "dayGZ": "丁亥",
+   "hourGZ": "丙午",
+   "xunShou": "甲辰壬",
+   "zhiFu": "天禽",
+   "zhiShi": "死门",
+   "kong": [
+    "寅",
+    "卯"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "乙",
+     "heavenStem": "乙",
+     "star": "天蓬",
+     "door": "杜门",
+     "god": "玄武",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "己",
+     "heavenStem": "己",
+     "star": "天任",
+     "door": "景门",
+     "god": "白虎",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "丁",
+     "heavenStem": "丁",
+     "star": "天冲",
+     "door": "死门",
+     "god": "六合",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "癸",
+     "heavenStem": "癸",
+     "star": "天辅",
+     "door": "惊门",
+     "god": "太阴",
+     "flags": {
+      "jixing": true,
+      "menpo": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "戊",
+     "heavenStem": "戊",
+     "star": "天英",
+     "door": "开门",
+     "god": "螣蛇",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "丙",
+     "heavenStem": "丙",
+     "star": "天芮",
+     "door": "休门",
+     "god": "值符",
+     "flags": {},
+     "earthStemJi": "壬",
+     "extraStar": "天禽",
+     "heavenStemJi": "壬"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "庚",
+     "heavenStem": "庚",
+     "star": "天柱",
+     "door": "生门",
+     "god": "九天",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "辛",
+     "heavenStem": "辛",
+     "star": "天心",
+     "door": "伤门",
+     "god": "九地",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "23点换日 子时",
+  "input": [
+   2026,
+   12,
+   21,
+   23,
+   30
+  ],
+  "expect": {
+   "time": "2026-12-21 23:30",
+   "solarTerm": "大雪",
+   "yinYang": "阴",
+   "yuan": "中",
+   "ju": 7,
+   "dayGZ": "庚午",
+   "hourGZ": "丙子",
+   "xunShou": "甲戌己",
+   "zhiFu": "天心",
+   "zhiShi": "开门",
+   "kong": [
+    "申",
+    "酉"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "丁",
+     "heavenStem": "辛",
+     "star": "天辅",
+     "door": "景门",
+     "god": "白虎",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "乙",
+     "heavenStem": "丙",
+     "star": "天英",
+     "door": "死门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "壬",
+     "heavenStem": "癸",
+     "star": "天芮",
+     "door": "惊门",
+     "god": "太阴",
+     "flags": {
+      "menpo": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "庚"
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "辛",
+     "heavenStem": "戊",
+     "star": "天柱",
+     "door": "开门",
+     "god": "螣蛇",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "丙",
+     "heavenStem": "己",
+     "star": "天心",
+     "door": "休门",
+     "god": "值符",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "癸",
+     "heavenStem": "丁",
+     "star": "天蓬",
+     "door": "生门",
+     "god": "九天",
+     "flags": {
+      "kong": true
+     },
+     "earthStemJi": "庚"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "戊",
+     "heavenStem": "乙",
+     "star": "天任",
+     "door": "伤门",
+     "god": "九地",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "己",
+     "heavenStem": "壬",
+     "star": "天冲",
+     "door": "杜门",
+     "god": "玄武",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "冬至交节前（仍大雪阴遁）",
+  "input": [
+   2026,
+   12,
+   22,
+   0,
+   30
+  ],
+  "expect": {
+   "time": "2026-12-22 00:30",
+   "solarTerm": "大雪",
+   "yinYang": "阴",
+   "yuan": "中",
+   "ju": 7,
+   "dayGZ": "庚午",
+   "hourGZ": "丙子",
+   "xunShou": "甲戌己",
+   "zhiFu": "天心",
+   "zhiShi": "开门",
+   "kong": [
+    "申",
+    "酉"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "丁",
+     "heavenStem": "辛",
+     "star": "天辅",
+     "door": "景门",
+     "god": "白虎",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "乙",
+     "heavenStem": "丙",
+     "star": "天英",
+     "door": "死门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "壬",
+     "heavenStem": "癸",
+     "star": "天芮",
+     "door": "惊门",
+     "god": "太阴",
+     "flags": {
+      "menpo": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "庚"
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "辛",
+     "heavenStem": "戊",
+     "star": "天柱",
+     "door": "开门",
+     "god": "螣蛇",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "丙",
+     "heavenStem": "己",
+     "star": "天心",
+     "door": "休门",
+     "god": "值符",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "癸",
+     "heavenStem": "丁",
+     "star": "天蓬",
+     "door": "生门",
+     "god": "九天",
+     "flags": {
+      "kong": true
+     },
+     "earthStemJi": "庚"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "戊",
+     "heavenStem": "乙",
+     "star": "天任",
+     "door": "伤门",
+     "god": "九地",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "己",
+     "heavenStem": "壬",
+     "star": "天冲",
+     "door": "杜门",
+     "god": "玄武",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "冬至交节后（阳遁）",
+  "input": [
+   2026,
+   12,
+   22,
+   10,
+   0
+  ],
+  "expect": {
+   "time": "2026-12-22 10:00",
+   "solarTerm": "冬至",
+   "yinYang": "阳",
+   "yuan": "中",
+   "ju": 7,
+   "dayGZ": "庚午",
+   "hourGZ": "辛巳",
+   "xunShou": "甲戌己",
+   "zhiFu": "天任",
+   "zhiShi": "生门",
+   "kong": [
+    "申",
+    "酉"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "辛",
+     "heavenStem": "己",
+     "star": "天任",
+     "door": "伤门",
+     "god": "值符",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "己",
+     "heavenStem": "癸",
+     "star": "天冲",
+     "door": "杜门",
+     "god": "螣蛇",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "癸",
+     "heavenStem": "丁",
+     "star": "天辅",
+     "door": "景门",
+     "god": "太阴",
+     "flags": {}
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "丁",
+     "heavenStem": "庚",
+     "star": "天英",
+     "door": "死门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "庚",
+     "heavenStem": "壬",
+     "star": "天芮",
+     "door": "惊门",
+     "god": "白虎",
+     "flags": {},
+     "extraStar": "天禽",
+     "heavenStemJi": "丙"
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "壬",
+     "heavenStem": "戊",
+     "star": "天柱",
+     "door": "开门",
+     "god": "玄武",
+     "flags": {
+      "kong": true
+     },
+     "earthStemJi": "丙"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "戊",
+     "heavenStem": "乙",
+     "star": "天心",
+     "door": "休门",
+     "god": "九地",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "乙",
+     "heavenStem": "辛",
+     "star": "天蓬",
+     "door": "生门",
+     "god": "九天",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "夏至交节附近",
+  "input": [
+   2026,
+   6,
+   21,
+   9,
+   0
+  ],
+  "expect": {
+   "time": "2026-06-21 09:00",
+   "solarTerm": "芒种",
+   "yinYang": "阳",
+   "yuan": "上",
+   "ju": 6,
+   "dayGZ": "丙寅",
+   "hourGZ": "癸巳",
+   "xunShou": "甲申庚",
+   "zhiFu": "天任",
+   "zhiShi": "生门",
+   "kong": [
+    "午",
+    "未"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "壬",
+     "heavenStem": "辛",
+     "star": "天英",
+     "door": "休门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "庚",
+     "heavenStem": "癸",
+     "star": "天芮",
+     "door": "生门",
+     "god": "白虎",
+     "flags": {},
+     "extraStar": "天禽",
+     "heavenStemJi": "乙"
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "丁",
+     "heavenStem": "己",
+     "star": "天柱",
+     "door": "伤门",
+     "god": "玄武",
+     "flags": {}
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "丙",
+     "heavenStem": "戊",
+     "star": "天心",
+     "door": "杜门",
+     "god": "九地",
+     "flags": {}
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "辛",
+     "heavenStem": "壬",
+     "star": "天蓬",
+     "door": "景门",
+     "god": "九天",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "癸",
+     "heavenStem": "庚",
+     "star": "天任",
+     "door": "死门",
+     "god": "值符",
+     "flags": {
+      "kong": true
+     },
+     "earthStemJi": "乙"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "己",
+     "heavenStem": "丁",
+     "star": "天冲",
+     "door": "惊门",
+     "god": "螣蛇",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "戊",
+     "heavenStem": "丙",
+     "star": "天辅",
+     "door": "开门",
+     "god": "太阴",
+     "flags": {
+      "rumu": true
+     }
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "夏至交节后",
+  "input": [
+   2026,
+   6,
+   21,
+   18,
+   0
+  ],
+  "expect": {
+   "time": "2026-06-21 18:00",
+   "solarTerm": "夏至",
+   "yinYang": "阴",
+   "yuan": "上",
+   "ju": 9,
+   "dayGZ": "丙寅",
+   "hourGZ": "丁酉",
+   "xunShou": "甲午辛",
+   "zhiFu": "天心",
+   "zhiShi": "开门",
+   "kong": [
+    "辰",
+    "巳"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "乙",
+     "heavenStem": "丙",
+     "star": "天芮",
+     "door": "死门",
+     "god": "太阴",
+     "flags": {
+      "menpo": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "壬"
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "己",
+     "heavenStem": "庚",
+     "star": "天柱",
+     "door": "惊门",
+     "god": "螣蛇",
+     "flags": {
+      "jixing": true
+     }
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "丁",
+     "heavenStem": "辛",
+     "star": "天心",
+     "door": "开门",
+     "god": "值符",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "癸",
+     "heavenStem": "乙",
+     "star": "天蓬",
+     "door": "休门",
+     "god": "九天",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "戊",
+     "heavenStem": "己",
+     "star": "天任",
+     "door": "生门",
+     "god": "九地",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "丙",
+     "heavenStem": "丁",
+     "star": "天冲",
+     "door": "伤门",
+     "god": "玄武",
+     "flags": {
+      "menpo": true
+     },
+     "earthStemJi": "壬"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "庚",
+     "heavenStem": "癸",
+     "star": "天辅",
+     "door": "杜门",
+     "god": "白虎",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "辛",
+     "heavenStem": "戊",
+     "star": "天英",
+     "door": "景门",
+     "god": "六合",
+     "flags": {
+      "menpo": true
+     }
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "立春交节附近",
+  "input": [
+   2026,
+   2,
+   4,
+   3,
+   0
+  ],
+  "expect": {
+   "time": "2026-02-04 03:00",
+   "solarTerm": "大寒",
+   "yinYang": "阳",
+   "yuan": "上",
+   "ju": 3,
+   "dayGZ": "己酉",
+   "hourGZ": "丙寅",
+   "xunShou": "甲子戊",
+   "zhiFu": "天冲",
+   "zhiShi": "伤门",
+   "kong": [
+    "戌",
+    "亥"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "丙",
+     "heavenStem": "戊",
+     "star": "天冲",
+     "door": "死门",
+     "god": "值符",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "癸",
+     "heavenStem": "己",
+     "star": "天辅",
+     "door": "惊门",
+     "god": "螣蛇",
+     "flags": {}
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "戊",
+     "heavenStem": "丁",
+     "star": "天英",
+     "door": "开门",
+     "god": "太阴",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "己",
+     "heavenStem": "乙",
+     "star": "天芮",
+     "door": "休门",
+     "god": "六合",
+     "flags": {},
+     "extraStar": "天禽",
+     "heavenStemJi": "庚"
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "丁",
+     "heavenStem": "壬",
+     "star": "天柱",
+     "door": "生门",
+     "god": "白虎",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "乙",
+     "heavenStem": "辛",
+     "star": "天心",
+     "door": "伤门",
+     "god": "玄武",
+     "flags": {
+      "menpo": true
+     },
+     "earthStemJi": "庚"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "壬",
+     "heavenStem": "丙",
+     "star": "天蓬",
+     "door": "杜门",
+     "god": "九地",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "辛",
+     "heavenStem": "癸",
+     "star": "天任",
+     "door": "景门",
+     "god": "九天",
+     "flags": {
+      "kong": true,
+      "menpo": true
+     }
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "立春交节后",
+  "input": [
+   2026,
+   2,
+   4,
+   12,
+   0
+  ],
+  "expect": {
+   "time": "2026-02-04 12:00",
+   "solarTerm": "立春",
+   "yinYang": "阳",
+   "yuan": "上",
+   "ju": 8,
+   "dayGZ": "己酉",
+   "hourGZ": "庚午",
+   "xunShou": "甲子戊",
+   "zhiFu": "天任",
+   "zhiShi": "生门",
+   "kong": [
+    "戌",
+    "亥"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "庚",
+     "heavenStem": "戊",
+     "star": "天任",
+     "door": "景门",
+     "god": "值符",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "戊",
+     "heavenStem": "壬",
+     "star": "天冲",
+     "door": "死门",
+     "god": "螣蛇",
+     "flags": {}
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "壬",
+     "heavenStem": "癸",
+     "star": "天辅",
+     "door": "惊门",
+     "god": "太阴",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "癸",
+     "heavenStem": "己",
+     "star": "天英",
+     "door": "开门",
+     "god": "六合",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "己",
+     "heavenStem": "辛",
+     "star": "天芮",
+     "door": "休门",
+     "god": "白虎",
+     "flags": {
+      "jixing": true,
+      "menpo": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "丁"
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "辛",
+     "heavenStem": "乙",
+     "star": "天柱",
+     "door": "生门",
+     "god": "玄武",
+     "flags": {
+      "rumu": true
+     },
+     "earthStemJi": "丁"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "乙",
+     "heavenStem": "丙",
+     "star": "天心",
+     "door": "伤门",
+     "god": "九地",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "丙",
+     "heavenStem": "庚",
+     "star": "天蓬",
+     "door": "杜门",
+     "god": "九天",
+     "flags": {
+      "kong": true
+     }
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "立冬交节前（霜降）",
+  "input": [
+   2026,
+   11,
+   7,
+   16,
+   0
+  ],
+  "expect": {
+   "time": "2026-11-07 16:00",
+   "solarTerm": "霜降",
+   "yinYang": "阴",
+   "yuan": "中",
+   "ju": 8,
+   "dayGZ": "乙酉",
+   "hourGZ": "甲申",
+   "xunShou": "甲申庚",
+   "zhiFu": "天心",
+   "zhiShi": "开门",
+   "kong": [
+    "午",
+    "未"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "丙",
+     "heavenStem": "丙",
+     "star": "天蓬",
+     "door": "休门",
+     "god": "九天",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "戊",
+     "heavenStem": "戊",
+     "star": "天任",
+     "door": "生门",
+     "god": "九地",
+     "flags": {}
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "癸",
+     "heavenStem": "癸",
+     "star": "天冲",
+     "door": "伤门",
+     "god": "玄武",
+     "flags": {}
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "壬",
+     "heavenStem": "壬",
+     "star": "天辅",
+     "door": "杜门",
+     "god": "白虎",
+     "flags": {
+      "jixing": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "乙",
+     "heavenStem": "乙",
+     "star": "天英",
+     "door": "景门",
+     "god": "六合",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "丁",
+     "heavenStem": "丁",
+     "star": "天芮",
+     "door": "死门",
+     "god": "太阴",
+     "flags": {
+      "kong": true
+     },
+     "earthStemJi": "辛",
+     "extraStar": "天禽",
+     "heavenStemJi": "辛"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "己",
+     "heavenStem": "己",
+     "star": "天柱",
+     "door": "惊门",
+     "god": "螣蛇",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "庚",
+     "heavenStem": "庚",
+     "star": "天心",
+     "door": "开门",
+     "god": "值符",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "立冬交节后",
+  "input": [
+   2026,
+   11,
+   7,
+   19,
+   0
+  ],
+  "expect": {
+   "time": "2026-11-07 19:00",
+   "solarTerm": "立冬",
+   "yinYang": "阴",
+   "yuan": "中",
+   "ju": 9,
+   "dayGZ": "乙酉",
+   "hourGZ": "丙戌",
+   "xunShou": "甲申庚",
+   "zhiFu": "天柱",
+   "zhiShi": "惊门",
+   "kong": [
+    "午",
+    "未"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "乙",
+     "heavenStem": "己",
+     "star": "天任",
+     "door": "生门",
+     "god": "玄武",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "己",
+     "heavenStem": "丁",
+     "star": "天冲",
+     "door": "伤门",
+     "god": "白虎",
+     "flags": {
+      "rumu": true,
+      "menpo": true
+     }
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "丁",
+     "heavenStem": "癸",
+     "star": "天辅",
+     "door": "杜门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "癸",
+     "heavenStem": "戊",
+     "star": "天英",
+     "door": "景门",
+     "god": "太阴",
+     "flags": {}
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "戊",
+     "heavenStem": "丙",
+     "star": "天芮",
+     "door": "死门",
+     "god": "螣蛇",
+     "flags": {
+      "kong": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "壬"
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "丙",
+     "heavenStem": "庚",
+     "star": "天柱",
+     "door": "惊门",
+     "god": "值符",
+     "flags": {
+      "kong": true
+     },
+     "earthStemJi": "壬"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "庚",
+     "heavenStem": "辛",
+     "star": "天心",
+     "door": "开门",
+     "god": "九天",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "辛",
+     "heavenStem": "乙",
+     "star": "天蓬",
+     "door": "休门",
+     "god": "九地",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "子时 0 点后",
+  "input": [
+   2026,
+   5,
+   15,
+   0,
+   10
+  ],
+  "expect": {
+   "time": "2026-05-15 00:10",
+   "solarTerm": "立夏",
+   "yinYang": "阳",
+   "yuan": "下",
+   "ju": 7,
+   "dayGZ": "己丑",
+   "hourGZ": "甲子",
+   "xunShou": "甲子戊",
+   "zhiFu": "天柱",
+   "zhiShi": "惊门",
+   "kong": [
+    "戌",
+    "亥"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "辛",
+     "heavenStem": "辛",
+     "star": "天蓬",
+     "door": "休门",
+     "god": "太阴",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "己",
+     "heavenStem": "己",
+     "star": "天任",
+     "door": "生门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "癸",
+     "heavenStem": "癸",
+     "star": "天冲",
+     "door": "伤门",
+     "god": "白虎",
+     "flags": {}
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "丁",
+     "heavenStem": "丁",
+     "star": "天辅",
+     "door": "杜门",
+     "god": "玄武",
+     "flags": {}
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "庚",
+     "heavenStem": "庚",
+     "star": "天英",
+     "door": "景门",
+     "god": "九地",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "壬",
+     "heavenStem": "壬",
+     "star": "天芮",
+     "door": "死门",
+     "god": "九天",
+     "flags": {},
+     "earthStemJi": "丙",
+     "extraStar": "天禽",
+     "heavenStemJi": "丙"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "戊",
+     "heavenStem": "戊",
+     "star": "天柱",
+     "door": "惊门",
+     "god": "值符",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "乙",
+     "heavenStem": "乙",
+     "star": "天心",
+     "door": "开门",
+     "god": "螣蛇",
+     "flags": {
+      "kong": true
+     }
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "阴遁 时干甲（伏吟）候选",
+  "input": [
+   2026,
+   8,
+   1,
+   13,
+   0
+  ],
+  "expect": {
+   "time": "2026-08-01 13:00",
+   "solarTerm": "大暑",
+   "yinYang": "阴",
+   "yuan": "下",
+   "ju": 4,
+   "dayGZ": "丁未",
+   "hourGZ": "丁未",
+   "xunShou": "甲辰壬",
+   "zhiFu": "天英",
+   "zhiShi": "景门",
+   "kong": [
+    "寅",
+    "卯"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "辛",
+     "heavenStem": "丁",
+     "star": "天柱",
+     "door": "死门",
+     "god": "九地",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "癸",
+     "heavenStem": "丙",
+     "star": "天心",
+     "door": "惊门",
+     "god": "玄武",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "己",
+     "heavenStem": "辛",
+     "star": "天蓬",
+     "door": "开门",
+     "god": "白虎",
+     "flags": {
+      "kong": true,
+      "menpo": true
+     }
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "戊",
+     "heavenStem": "癸",
+     "star": "天任",
+     "door": "休门",
+     "god": "六合",
+     "flags": {
+      "jixing": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "壬",
+     "heavenStem": "己",
+     "star": "天冲",
+     "door": "生门",
+     "god": "太阴",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "庚",
+     "heavenStem": "戊",
+     "star": "天辅",
+     "door": "伤门",
+     "god": "螣蛇",
+     "flags": {
+      "menpo": true
+     },
+     "earthStemJi": "乙"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "丁",
+     "heavenStem": "壬",
+     "star": "天英",
+     "door": "杜门",
+     "god": "值符",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "丙",
+     "heavenStem": "庚",
+     "star": "天芮",
+     "door": "景门",
+     "god": "九天",
+     "flags": {
+      "menpo": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "乙"
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "阳遁 普通",
+  "input": [
+   2026,
+   4,
+   10,
+   7,
+   0
+  ],
+  "expect": {
+   "time": "2026-04-10 07:00",
+   "solarTerm": "清明",
+   "yinYang": "阳",
+   "yuan": "中",
+   "ju": 1,
+   "dayGZ": "甲寅",
+   "hourGZ": "戊辰",
+   "xunShou": "甲子戊",
+   "zhiFu": "天蓬",
+   "zhiShi": "休门",
+   "kong": [
+    "戌",
+    "亥"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "戊",
+     "heavenStem": "戊",
+     "star": "天蓬",
+     "door": "杜门",
+     "god": "值符",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "丙",
+     "heavenStem": "丙",
+     "star": "天任",
+     "door": "景门",
+     "god": "螣蛇",
+     "flags": {}
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "庚",
+     "heavenStem": "庚",
+     "star": "天冲",
+     "door": "死门",
+     "god": "太阴",
+     "flags": {}
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "辛",
+     "heavenStem": "辛",
+     "star": "天辅",
+     "door": "惊门",
+     "god": "六合",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "乙",
+     "heavenStem": "乙",
+     "star": "天英",
+     "door": "开门",
+     "god": "白虎",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "己",
+     "heavenStem": "己",
+     "star": "天芮",
+     "door": "休门",
+     "god": "玄武",
+     "flags": {
+      "jixing": true
+     },
+     "earthStemJi": "壬",
+     "extraStar": "天禽",
+     "heavenStemJi": "壬"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "丁",
+     "heavenStem": "丁",
+     "star": "天柱",
+     "door": "生门",
+     "god": "九地",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "癸",
+     "heavenStem": "癸",
+     "star": "天心",
+     "door": "伤门",
+     "god": "九天",
+     "flags": {
+      "kong": true
+     }
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "阴遁 普通",
+  "input": [
+   2026,
+   9,
+   30,
+   15,
+   0
+  ],
+  "expect": {
+   "time": "2026-09-30 15:00",
+   "solarTerm": "秋分",
+   "yinYang": "阴",
+   "yuan": "下",
+   "ju": 4,
+   "dayGZ": "丁未",
+   "hourGZ": "戊申",
+   "xunShou": "甲辰壬",
+   "zhiFu": "天英",
+   "zhiShi": "景门",
+   "kong": [
+    "寅",
+    "卯"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "辛",
+     "heavenStem": "癸",
+     "star": "天任",
+     "door": "开门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "癸",
+     "heavenStem": "己",
+     "star": "天冲",
+     "door": "休门",
+     "god": "太阴",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "己",
+     "heavenStem": "戊",
+     "star": "天辅",
+     "door": "生门",
+     "god": "螣蛇",
+     "flags": {
+      "kong": true,
+      "jixing": true
+     }
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "戊",
+     "heavenStem": "壬",
+     "star": "天英",
+     "door": "伤门",
+     "god": "值符",
+     "flags": {
+      "jixing": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "壬",
+     "heavenStem": "庚",
+     "star": "天芮",
+     "door": "杜门",
+     "god": "九天",
+     "flags": {},
+     "extraStar": "天禽",
+     "heavenStemJi": "乙"
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "庚",
+     "heavenStem": "丁",
+     "star": "天柱",
+     "door": "景门",
+     "god": "九地",
+     "flags": {},
+     "earthStemJi": "乙"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "丁",
+     "heavenStem": "丙",
+     "star": "天心",
+     "door": "死门",
+     "god": "玄武",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "丙",
+     "heavenStem": "辛",
+     "star": "天蓬",
+     "door": "惊门",
+     "god": "白虎",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "跨年 晚子",
+  "input": [
+   2026,
+   12,
+   31,
+   23,
+   59
+  ],
+  "expect": {
+   "time": "2026-12-31 23:59",
+   "solarTerm": "冬至",
+   "yinYang": "阳",
+   "yuan": "上",
+   "ju": 1,
+   "dayGZ": "庚辰",
+   "hourGZ": "丙子",
+   "xunShou": "甲戌己",
+   "zhiFu": "天芮",
+   "zhiShi": "死门",
+   "kong": [
+    "申",
+    "酉"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "戊",
+     "heavenStem": "乙",
+     "star": "天英",
+     "door": "伤门",
+     "god": "九天",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "丙",
+     "heavenStem": "己",
+     "star": "天芮",
+     "door": "杜门",
+     "god": "值符",
+     "flags": {
+      "menpo": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "壬"
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "庚",
+     "heavenStem": "丁",
+     "star": "天柱",
+     "door": "景门",
+     "god": "螣蛇",
+     "flags": {}
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "辛",
+     "heavenStem": "癸",
+     "star": "天心",
+     "door": "死门",
+     "god": "太阴",
+     "flags": {
+      "jixing": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "乙",
+     "heavenStem": "戊",
+     "star": "天蓬",
+     "door": "惊门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "己",
+     "heavenStem": "丙",
+     "star": "天任",
+     "door": "开门",
+     "god": "白虎",
+     "flags": {
+      "kong": true
+     },
+     "earthStemJi": "壬"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "丁",
+     "heavenStem": "庚",
+     "star": "天冲",
+     "door": "休门",
+     "god": "玄武",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "癸",
+     "heavenStem": "辛",
+     "star": "天辅",
+     "door": "生门",
+     "god": "九地",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "跨年 早子",
+  "input": [
+   2027,
+   1,
+   1,
+   0,
+   1
+  ],
+  "expect": {
+   "time": "2027-01-01 00:01",
+   "solarTerm": "冬至",
+   "yinYang": "阳",
+   "yuan": "上",
+   "ju": 1,
+   "dayGZ": "庚辰",
+   "hourGZ": "丙子",
+   "xunShou": "甲戌己",
+   "zhiFu": "天芮",
+   "zhiShi": "死门",
+   "kong": [
+    "申",
+    "酉"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "戊",
+     "heavenStem": "乙",
+     "star": "天英",
+     "door": "伤门",
+     "god": "九天",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "丙",
+     "heavenStem": "己",
+     "star": "天芮",
+     "door": "杜门",
+     "god": "值符",
+     "flags": {
+      "menpo": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "壬"
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "庚",
+     "heavenStem": "丁",
+     "star": "天柱",
+     "door": "景门",
+     "god": "螣蛇",
+     "flags": {}
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "辛",
+     "heavenStem": "癸",
+     "star": "天心",
+     "door": "死门",
+     "god": "太阴",
+     "flags": {
+      "jixing": true
+     }
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "乙",
+     "heavenStem": "戊",
+     "star": "天蓬",
+     "door": "惊门",
+     "god": "六合",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "己",
+     "heavenStem": "丙",
+     "star": "天任",
+     "door": "开门",
+     "god": "白虎",
+     "flags": {
+      "kong": true
+     },
+     "earthStemJi": "壬"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "丁",
+     "heavenStem": "庚",
+     "star": "天冲",
+     "door": "休门",
+     "god": "玄武",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "癸",
+     "heavenStem": "辛",
+     "star": "天辅",
+     "door": "生门",
+     "god": "九地",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "春分交节附近",
+  "input": [
+   2026,
+   3,
+   20,
+   22,
+   0
+  ],
+  "expect": {
+   "time": "2026-03-20 22:00",
+   "solarTerm": "惊蛰",
+   "yinYang": "阳",
+   "yuan": "下",
+   "ju": 4,
+   "dayGZ": "癸巳",
+   "hourGZ": "癸亥",
+   "xunShou": "甲寅癸",
+   "zhiFu": "天英",
+   "zhiShi": "景门",
+   "kong": [
+    "子",
+    "丑"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "丁",
+     "heavenStem": "丁",
+     "star": "天蓬",
+     "door": "休门",
+     "god": "白虎",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "壬",
+     "heavenStem": "壬",
+     "star": "天任",
+     "door": "生门",
+     "god": "玄武",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "乙",
+     "heavenStem": "乙",
+     "star": "天冲",
+     "door": "伤门",
+     "god": "九地",
+     "flags": {}
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "戊",
+     "heavenStem": "戊",
+     "star": "天辅",
+     "door": "杜门",
+     "god": "九天",
+     "flags": {}
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "癸",
+     "heavenStem": "癸",
+     "star": "天英",
+     "door": "景门",
+     "god": "值符",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "丙",
+     "heavenStem": "丙",
+     "star": "天芮",
+     "door": "死门",
+     "god": "螣蛇",
+     "flags": {
+      "jixing": true
+     },
+     "earthStemJi": "己",
+     "extraStar": "天禽",
+     "heavenStemJi": "己"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "辛",
+     "heavenStem": "辛",
+     "star": "天柱",
+     "door": "惊门",
+     "god": "太阴",
+     "flags": {}
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "庚",
+     "heavenStem": "庚",
+     "star": "天心",
+     "door": "开门",
+     "god": "六合",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "秋分交节附近",
+  "input": [
+   2026,
+   9,
+   23,
+   6,
+   0
+  ],
+  "expect": {
+   "time": "2026-09-23 06:00",
+   "solarTerm": "白露",
+   "yinYang": "阴",
+   "yuan": "中",
+   "ju": 3,
+   "dayGZ": "庚子",
+   "hourGZ": "己卯",
+   "xunShou": "甲戌己",
+   "zhiFu": "天芮",
+   "zhiShi": "死门",
+   "kong": [
+    "申",
+    "酉"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "庚",
+     "heavenStem": "庚",
+     "star": "天蓬",
+     "door": "惊门",
+     "god": "玄武",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "壬",
+     "heavenStem": "壬",
+     "star": "天任",
+     "door": "开门",
+     "god": "白虎",
+     "flags": {}
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "戊",
+     "heavenStem": "戊",
+     "star": "天冲",
+     "door": "休门",
+     "god": "六合",
+     "flags": {
+      "jixing": true
+     }
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "乙",
+     "heavenStem": "乙",
+     "star": "天辅",
+     "door": "生门",
+     "god": "太阴",
+     "flags": {}
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "辛",
+     "heavenStem": "辛",
+     "star": "天英",
+     "door": "伤门",
+     "god": "螣蛇",
+     "flags": {
+      "jixing": true
+     }
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "己",
+     "heavenStem": "己",
+     "star": "天芮",
+     "door": "杜门",
+     "god": "值符",
+     "flags": {
+      "kong": true,
+      "jixing": true,
+      "menpo": true
+     },
+     "earthStemJi": "丙",
+     "extraStar": "天禽",
+     "heavenStemJi": "丙"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "癸",
+     "heavenStem": "癸",
+     "star": "天柱",
+     "door": "景门",
+     "god": "九天",
+     "flags": {
+      "kong": true,
+      "menpo": true
+     }
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "丁",
+     "heavenStem": "丁",
+     "star": "天心",
+     "door": "死门",
+     "god": "九地",
+     "flags": {}
+    }
+   ]
+  }
+ },
+ {
+  "source": "hark-ref",
+  "ref": "小暑",
+  "input": [
+   2026,
+   7,
+   7,
+   11,
+   0
+  ],
+  "expect": {
+   "time": "2026-07-07 11:00",
+   "solarTerm": "小暑",
+   "yinYang": "阴",
+   "yuan": "上",
+   "ju": 8,
+   "dayGZ": "壬午",
+   "hourGZ": "丙午",
+   "xunShou": "甲辰壬",
+   "zhiFu": "天辅",
+   "zhiShi": "杜门",
+   "kong": [
+    "寅",
+    "卯"
+   ],
+   "palaces": [
+    {
+     "gong": 1,
+     "dir": "北",
+     "earthStem": "丙",
+     "heavenStem": "壬",
+     "star": "天辅",
+     "door": "惊门",
+     "god": "值符",
+     "flags": {}
+    },
+    {
+     "gong": 8,
+     "dir": "东北",
+     "earthStem": "戊",
+     "heavenStem": "乙",
+     "star": "天英",
+     "door": "开门",
+     "god": "九天",
+     "flags": {
+      "kong": true
+     }
+    },
+    {
+     "gong": 3,
+     "dir": "东",
+     "earthStem": "癸",
+     "heavenStem": "丁",
+     "star": "天芮",
+     "door": "休门",
+     "god": "九地",
+     "flags": {
+      "kong": true
+     },
+     "extraStar": "天禽",
+     "heavenStemJi": "辛"
+    },
+    {
+     "gong": 4,
+     "dir": "东南",
+     "earthStem": "壬",
+     "heavenStem": "己",
+     "star": "天柱",
+     "door": "生门",
+     "god": "玄武",
+     "flags": {}
+    },
+    {
+     "gong": 9,
+     "dir": "南",
+     "earthStem": "乙",
+     "heavenStem": "庚",
+     "star": "天心",
+     "door": "伤门",
+     "god": "白虎",
+     "flags": {}
+    },
+    {
+     "gong": 2,
+     "dir": "西南",
+     "earthStem": "丁",
+     "heavenStem": "丙",
+     "star": "天蓬",
+     "door": "杜门",
+     "god": "六合",
+     "flags": {
+      "menpo": true
+     },
+     "earthStemJi": "辛"
+    },
+    {
+     "gong": 7,
+     "dir": "西",
+     "earthStem": "己",
+     "heavenStem": "戊",
+     "star": "天任",
+     "door": "景门",
+     "god": "太阴",
+     "flags": {
+      "menpo": true
+     }
+    },
+    {
+     "gong": 6,
+     "dir": "西北",
+     "earthStem": "庚",
+     "heavenStem": "癸",
+     "star": "天冲",
+     "door": "死门",
+     "god": "螣蛇",
+     "flags": {}
+    }
+   ]
+  }
+ }
+]
